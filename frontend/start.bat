@@ -1,11 +1,10 @@
 @echo off
 echo ========================================
-echo   温馨宠物店 - 前端开发服务器
+echo   温馨宠物店 Vue 项目 - 启动开发服务器
 echo ========================================
 echo.
-echo 正在启动前端开发服务器...
+echo 正在启动开发服务器...
 echo.
-cd frontend
 npm run dev
 echo.
 pause
